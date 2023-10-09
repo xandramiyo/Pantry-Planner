@@ -1,3 +1,3 @@
-# MERN-Stack Infrastructure
+# Pantry Planner
 
-Clone this repo to provide the starter code for a comprehensive MERN-Stack project including token-based authentication.
+Plan your grocery runs with your favorite meals in mind. Make a list of all the ingredients you require straight from the recipes you're following. 
